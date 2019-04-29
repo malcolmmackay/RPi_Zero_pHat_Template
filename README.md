@@ -3,7 +3,7 @@ This project includes KiCAD 5.0 CAD files to make a pi Zero HAT with connections
 
 ![Photo of pHAT connected to pi Zero](photo_version_1.jpg)
 
-This board implements the following connections from the table on https://openaps.readthedocs.io/en/latest/docs/Gear%20Up/edison.html#hardware-information-for-pi-based-setups-with-rfm69hcw-experimental 
+This board makes connections from the table on https://openaps.readthedocs.io/en/latest/docs/Gear%20Up/edison.html#hardware-information-for-pi-based-setups-with-rfm69hcw-experimental 
 
 | Board | Connect | Connect | Connect | Connect | Connect | Connect | Connect | Connect |
 | ----- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
