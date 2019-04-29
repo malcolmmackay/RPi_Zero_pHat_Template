@@ -1,15 +1,14 @@
 EESchema Schematic File Version 4
-LIBS:RPi_Zero_pHat_Template-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "RFM69HCW-868-S2 partial HAT for pi Zero"
+Date "2019-04-29"
+Rev "1"
+Comp "MM Electronics"
+Comment1 "MIT Licensed Open Source Hardware"
 Comment2 ""
 Comment3 ""
 Comment4 ""
