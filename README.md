@@ -1,6 +1,8 @@
 # RFM69HCW-868-S2 Partial HAT for pi Zero
 This project includes KiCAD 5.0 CAD files to make a pi Zero HAT with connections from SPI0 device 0 to an RFM69HCW-868-S2 868 MHz transceiver. It was inspired by the OpenAPS project: https://github.com/openaps/openaps.
 
+![Photo of pHAT connected to pi Zero](photo_version_1.jpg)
+
 This board implements the following connections from the table on https://openaps.readthedocs.io/en/latest/docs/Gear%20Up/edison.html#hardware-information-for-pi-based-setups-with-rfm69hcw-experimental 
 
 | Board | Connect | Connect | Connect | Connect | Connect | Connect | Connect | Connect |
